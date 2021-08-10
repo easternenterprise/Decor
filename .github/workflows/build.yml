@@ -10,8 +10,6 @@
 # Docs:
 # - GitHub Actions: https://help.github.com/en/actions
 # - IntelliJ Plugin Verifier GitHub Action: https://github.com/ChrisCarini/intellij-platform-plugin-verifier-action
-#
-## JBIJPPTPL
 
 name: Build
 on:
@@ -22,13 +20,11 @@ on:
   pull_request:
 
 jobs:
-
   # Run Gradle Wrapper Validation Action to verify the wrapper's checksum
   gradleValidation:
     name: Gradle Wrapper
     runs-on: ubuntu-latest
     steps:
-
       # Check out current repository
       - name: Fetch Sources
         uses: actions/checkout@v2.3.4
@@ -43,7 +39,6 @@ jobs:
     needs: gradleValidation
     runs-on: ubuntu-latest
     steps:
-
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v2
@@ -89,7 +84,6 @@ jobs:
       changelog: ${{ steps.properties.outputs.changelog }}
       artifact: ${{ steps.properties.outputs.artifact }}
     steps:
-
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v2
@@ -152,7 +146,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v2
@@ -208,7 +201,6 @@ jobs:
     needs: [build, verify]
     runs-on: ubuntu-latest
     steps:
-
       # Check out current repository
       - name: Fetch Sources
         uses: actions/checkout@v2.3.4

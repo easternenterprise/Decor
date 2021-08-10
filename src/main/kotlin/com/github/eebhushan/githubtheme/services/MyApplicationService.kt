@@ -1,6 +1,6 @@
-package com.github.eebhushan.githubtheme.services
+package com.github.easternenterprise.githubtheme.services
 
-import com.github.eebhushan.githubtheme.MyBundle
+import com.github.easternenterprise.githubtheme.MyBundle
 
 class MyApplicationService {
 

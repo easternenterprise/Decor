@@ -7,13 +7,11 @@ on:
     types: [prereleased, released]
 
 jobs:
-
   # Prepare and publish the plugin to the Marketplace repository
   release:
     name: Publish Plugin
     runs-on: ubuntu-latest
     steps:
-
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v2
@@ -39,7 +37,6 @@ jobs:
     needs: release
     runs-on: ubuntu-latest
     steps:
-
       # Setup Java 1.8 environment for the next steps
       - name: Setup Java
         uses: actions/setup-java@v2
