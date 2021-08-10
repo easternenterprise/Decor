@@ -1,6 +1,6 @@
-package com.github.eebhushan.githubtheme.listeners
+package com.github.easternenterprise.githubtheme.listeners
 
-import com.github.eebhushan.githubtheme.services.MyProjectService
+import com.github.easternenterprise.githubtheme.services.MyProjectService
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
