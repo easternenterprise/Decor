@@ -3,6 +3,7 @@
 <!-- Plugin description -->
 
 This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) and could be served as port for JetBrains IDEs
+bla bla ..
 
 <!-- Plugin description end -->
 
