@@ -4,10 +4,10 @@
 
 ## v0.0.2 [ 14-aug-2021 ]
 
-### Removed [ 14-aug-2-2021 ]
+### Removed [ 14-aug-2021 ]
 - removed unwanted/extra lines from Readme.md file
 
-### Changed [ 14-aug-2-2021 ]
+### Changed [ 14-aug-2021 ]
 
 - GitHub Actions: Use Java 11
 - Update `pluginVerifierIdeVersions` to `2020.3.4, 2021.1.3`
