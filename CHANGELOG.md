@@ -2,19 +2,21 @@
 
 # GitHub-Theme Changelog
 
-## v0.0.2 [ 14-aug-2021 ]
+## [Unreleased]
 
-### Removed [ 14-aug-2021 ]
+## [0.0.2]
+
+### Removed
 - removed unwanted/extra lines from Readme.md file
 
-### Changed [ 14-aug-2021 ]
+### Changed
 
 - GitHub Actions: Use Java 11
 - Update `pluginVerifierIdeVersions` to `2020.3.4, 2021.1.3`
 - Change since/until build to `203-212.*`
 - Upgrade Gradle Wrapper to `7.1.1`
 
-## v0.0.1 [ 10-aug-2021 ]
+## [0.0.1]
 
 ### Added
 
