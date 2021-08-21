@@ -1,4 +1,4 @@
-package com.github.easternenterprise.githubtheme
+package com.github.easternenterprise.jetbrainstheme
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

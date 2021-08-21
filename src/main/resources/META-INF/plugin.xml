@@ -1,19 +1,40 @@
 <idea-plugin>
-    <id>com.github.easternenterprise.githubtheme</id>
+    <id>com.github.easternenterprise.jetbrainstheme</id>
     <name>GitHub-Theme</name>
     <vendor url="https://github.com/easternenterprise/github-theme">Eastern Enterprise</vendor>
+
+    <description><![CDATA[
+  GitHub Theme
+  <br/><br/>
+  To install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Restart IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="191.0"/>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
+
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.easternenterprise.githubtheme.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.easternenterprise.githubtheme.services.MyProjectService"/>
+        <applicationService serviceImplementation="com.github.easternenterprise.jetbrainstheme.services.MyApplicationService"/>
+        <projectService serviceImplementation="com.github.easternenterprise.jetbrainstheme.services.MyProjectService"/>
+        <!-- Add your extensions here -->
+        <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Jetbrains_Light.theme.json"/>
+        <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Jetbrains_Dark_Dimmed.theme.json"/>
+        <themeProvider id="eb9b7461-397b-4b98-a422-224fc0a74564" path="/Jetbrains_Gray.theme.json"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.easternenterprise.githubtheme.listeners.MyProjectManagerListener"
+        <listener class="com.github.easternenterprise.jetbrainstheme.listeners.MyProjectManagerListener"
                   topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
 </idea-plugin>

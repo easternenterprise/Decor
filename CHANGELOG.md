@@ -4,6 +4,14 @@
 
 ## [Unreleased]
 
+## [0.0.3]
+
+### Added
+
+- Added Github dark dimmed theme
+- Added Github light theme
+- Added Github Gray theme
+
 ## [0.0.2]
 
 ### Removed
