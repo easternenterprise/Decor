@@ -1,8 +1,8 @@
 {
-  "name": "JetBrains Dark Dimmed",
+  "name": "JetBrains Dark",
   "dark": true,
   "author": "Akanksha <a.patel@easternenterprise.com>",
-  "editorScheme": "/Jetbrains_Dark_Dimmed.xml",
+  "editorScheme": "/Jetbrains_Dark.xml",
   "ui": {
     "*": {
       "background": "#1e2228",

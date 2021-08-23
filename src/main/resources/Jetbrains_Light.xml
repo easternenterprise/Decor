@@ -1,10 +1,10 @@
-<scheme name="GitHub Light" version="142" parent_scheme="Default">
+<scheme name="JetBrains Light" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="created">2021-08-21T14:38:17</property>
         <property name="ide">Idea</property>
         <property name="ideVersion">2021.2.0.0</property>
         <property name="modified">2021-08-21T14:38:23</property>
-        <property name="originalScheme">_@user_GitHub Light</property>
+        <property name="originalScheme">_@user_Jetbrains Light</property>
     </metaInfo>
     <colors>
         <option name="CARET_ROW_COLOR" value="f1f8ff"/>

@@ -4,13 +4,11 @@
 
 ## [Unreleased]
 
-## [0.0.3]
-
 ### Added
 
-- Added Github dark dimmed theme
-- Added Github light theme
-- Added Github Gray theme
+- Added JetBrains Dark theme
+- Added JetBrains light theme
+- Added JetBrains Gray theme
 
 ## [0.0.2]
 
