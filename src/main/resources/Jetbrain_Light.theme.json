@@ -1,8 +1,8 @@
 {
-  "name": "JetBrains Light",
+  "name": "JetBrain Light",
   "dark": false,
   "author": "Akanksha <a.patel@easternenterprise.com>",
-  "editorScheme": "/Jetbrains_Light.xml",
+  "editorScheme": "/Jetbrain_Light.xml",
   "ui": {
     "*": {
       "selectionBackground":  "#2675BF",

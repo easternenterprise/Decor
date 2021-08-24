@@ -1,8 +1,8 @@
 {
-  "name": "JetBrains Dark",
+  "name": "JetBrain Dark",
   "dark": true,
   "author": "Akanksha <a.patel@easternenterprise.com>",
-  "editorScheme": "/Jetbrains_Dark.xml",
+  "editorScheme": "/Jetbrain_Dark.xml",
   "ui": {
     "*": {
       "background": "#1e2228",

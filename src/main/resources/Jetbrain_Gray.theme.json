@@ -1,8 +1,8 @@
 {
-  "name": "JetBrains Gray",
+  "name": "JetBrain Gray",
   "dark": true,
   "author": "Akanksha <a.patel@easternenterprise.com>",
-  "editorScheme": "/Jetbrains_Gray.xml",
+  "editorScheme": "/Jetbrain_Gray.xml",
   "ui": {
     "*": {
       "background": "#C6C6C6",
