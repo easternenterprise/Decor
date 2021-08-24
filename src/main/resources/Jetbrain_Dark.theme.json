@@ -5,10 +5,10 @@
   "editorScheme": "/Jetbrain_Dark.xml",
   "ui": {
     "*": {
-      "background": "#1e2228",
+      "background": "#091012",
       "foreground": "#adbac7",
       "disabledBackground": "#2F3032",
-      "inactiveBackground": "#22272d",
+      "inactiveBackground": "#091012",
 
       "selectionBackground": "#2d333b",
       "selectionInactiveBackground": "#2d333b",
