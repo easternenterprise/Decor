@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added JetBrains Dark theme
+- Added JetBrains light theme
+- Added JetBrains Gray theme
+
 ## [0.0.2]
 
 ### Removed
