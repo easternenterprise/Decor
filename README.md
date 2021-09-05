@@ -1,4 +1,4 @@
-# GitHub-Theme for JetBrains IDEs
+# Jetbrain-Theme for JetBrains IDEs
 
 <!-- Plugin description -->
 
