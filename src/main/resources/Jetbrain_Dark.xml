@@ -10,7 +10,7 @@
         <option name="CARET_COLOR" value="6cb6ff"/>
         <option name="CARET_ROW_COLOR" value="2d333b"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="091012"/>
-        <option name="GUTTER_BACKGROUND" value="091417"/>
+        <option name="GUTTER_BACKGROUND" value="030A10"/>
         <option name="SELECTION_BACKGROUND" value="274467"/>
     </colors>
     <attributes>
@@ -492,7 +492,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="adbac7"/>
-                <option name="BACKGROUND" value="091417"/>
+                <option name="BACKGROUND" value="010B10"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>

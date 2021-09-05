@@ -6,6 +6,14 @@
 
 ### Added
 
+- Added New Logo for the theme
+
+### Changed
+
+- Updated colour schema for the dark theme
+
+### Added
+
 - Added JetBrains Dark theme
 - Added JetBrains light theme
 - Added JetBrains Gray theme
