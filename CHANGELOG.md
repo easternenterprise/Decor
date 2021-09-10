@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.0.4]
+
 ### Added
 
 - Added New Logo for the theme
@@ -11,6 +13,8 @@
 ### Changed
 
 - Updated colour schema for the dark theme
+
+## [0.0.3]
 
 ### Added
 
