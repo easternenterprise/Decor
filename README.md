@@ -1,4 +1,4 @@
-# GitHub-Theme for JetBrains IDEs
+# Jetbrain-Theme for JetBrains IDEs
 
 <!-- Plugin description -->
 
@@ -10,7 +10,7 @@ This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.vis
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub-Theme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Jetbrain-Theme"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
