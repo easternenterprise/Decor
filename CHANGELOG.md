@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added Apache-2 LICENSE
+
 ## [0.0.4]
 
 ### Added
