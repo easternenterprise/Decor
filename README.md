@@ -6,15 +6,15 @@ This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.vis
 
 ## Light
 
-![screenshot](readme/images/light.png)
+![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/light.PNG)
 
 ## Gray
 
-![screenshot](readme/images/gray.png)
+![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/gray.PNG)
 
 ## Dark
 
-![screenshot](readme/images/dark.png)
+![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/dark.PNG)
 
 
 ## Installation
