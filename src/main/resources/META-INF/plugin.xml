@@ -1,10 +1,10 @@
 <idea-plugin>
-    <id>com.easternenterprise.jetbraintheme</id>
-    <name>Jetbrain-Theme</name>
+    <id>com.easternenterprise.decor</id>
+    <name>Decor</name>
     <vendor url="https://github.com/easternenterprise">Eastern Enterprise</vendor>
 
     <description><![CDATA[
-  Jetbrain Theme
+  Decor
   <br/><br/>
   To install:
   <ul>
@@ -26,9 +26,9 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Jetbrain_Light.theme.json"/>
-        <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Jetbrain_Dark.theme.json"/>
-        <themeProvider id="eb9b7461-397b-4b98-a422-224fc0a74564" path="/Jetbrain_Gray.theme.json"/>
+        <themeProvider id="adf99807-aee9-4514-b512-5f0e429f30da" path="/Decor_Light.theme.json"/>
+        <themeProvider id="776bbe10-21be-477e-a5b3-5cb4403feab4" path="/Decor_Dark.theme.json"/>
+        <themeProvider id="eb9b7461-397b-4b98-a422-224fc0a74564" path="/Decor_Gray.theme.json"/>
     </extensions>
 
 </idea-plugin>

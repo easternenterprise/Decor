@@ -1,4 +1,4 @@
-package com.easternenterprise.jetbraintheme
+package com.easternenterprise.decor
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
