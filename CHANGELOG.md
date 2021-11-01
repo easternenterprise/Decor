@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+- !fix: repo name changes fixes
+
+## [0.0.7]
+
 ### Changed
 
 - fix: added fixes to name change PR
