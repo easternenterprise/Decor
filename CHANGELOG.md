@@ -6,6 +6,12 @@
 
 ### Changed
 
+- revert: plugingIcon viewBox reverted to original
+
+## [0.0.8]
+
+### Changed
+
 - !fix: repo name changes fixes
 
 ## [0.0.7]
