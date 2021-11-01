@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/easternenterprise/Jetbrains-Theme/main/src/main/resources/META-INF/pluginIcon.svg" width="350"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/easternenterprise/decor/main/src/main/resources/META-INF/pluginIcon.svg" width="250" alt="Decor By Eastern Enterprise"></p>
 <p align="center"><h1 align="center">Decor</h1></p>
 
 <!-- Plugin description -->
@@ -9,15 +9,15 @@ as port for JetBrains IDEs
 
 ## Light
 
-![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/light.PNG)
+![screenshot](https://raw.githubusercontent.com/easternenterprise/Decor/main/readme/images/light.PNG)
 
 ## Gray
 
-![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/gray.PNG)
+![screenshot](https://raw.githubusercontent.com/easternenterprise/Decor/main/readme/images/gray.PNG)
 
 ## Dark
 
-![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/dark.PNG)
+![screenshot](https://raw.githubusercontent.com/easternenterprise/Decor/main/readme/images/dark.PNG)
 
 ## Installation
 
@@ -31,8 +31,8 @@ as port for JetBrains IDEs
 
 - Manually:
 
-  Download the [latest release](https://github.com/easternenterprise/Jetbrains-Theme/releases/latest) and install it
-  manually using
+  Download the [latest release](https://github.com/easternenterprise/Decor/releases/latest) and install it manually
+  using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 ## Build from Source

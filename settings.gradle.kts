@@ -1,1 +1,1 @@
-rootProject.name = "GitHub-Theme"
+rootProject.name = "Decor"
