@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+### Changed
+
 - !fix: repo name changes fixes
 
 ## [0.0.7]
@@ -20,6 +22,8 @@
 - Updated Theme name to Decor
 
 ## [0.0.5]
+
+### Added
 
 - Added Apache-2 LICENSE
 
