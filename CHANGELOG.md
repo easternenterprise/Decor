@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Updated Theme name to Decor 
+
 ### Added
 
 - Added Apache-2 LICENSE
