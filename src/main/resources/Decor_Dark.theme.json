@@ -1,14 +1,14 @@
 {
-  "name": "JetBrain Gray",
+  "name": "Decor Dark",
   "dark": true,
   "author": "Akanksha <a.patel@easternenterprise.com>",
-  "editorScheme": "/Jetbrain_Gray.xml",
+  "editorScheme": "/Jetbrain_Dark.xml",
   "ui": {
     "*": {
-      "background": "#1e2228",
+      "background": "#090911",
       "foreground": "#adbac7",
       "disabledBackground": "#2F3032",
-      "inactiveBackground": "#22272d",
+      "inactiveBackground": "#090911",
 
       "selectionBackground": "#2d333b",
       "selectionInactiveBackground": "#2d333b",

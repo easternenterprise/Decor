@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center">JetBrain-Theme</h1></p>
+<p align="center"><h1 align="center">Decor</h1></p>
 
 <!-- Plugin description -->
 This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) and could be served as port for JetBrains IDEs
@@ -16,7 +16,6 @@ This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.vis
 
 ![screenshot](https://github.com/easternenterprise/Jetbrains-Theme/blob/main/readme/images/dark.PNG)
 
-
 ## Installation
 
 - If you just need to install this plugin then you could install it from official Jetbrains Plugin Store
@@ -24,7 +23,7 @@ This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.vis
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Jetbrain-Theme"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Decor"</kbd> >
   <kbd>Install Plugin</kbd>
 
 - Manually:
