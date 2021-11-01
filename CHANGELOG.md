@@ -1,14 +1,21 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# GitHub-Theme Changelog
+# Decor Changelog
 
 ## [Unreleased]
 
 ### Changed
 
-- Updated Theme name to Decor 
+- fix: added fixes to name change PR
+- refactor: removed unused code and improvements added
 
-### Added
+## [0.0.6]
+
+### Changed
+
+- Updated Theme name to Decor
+
+## [0.0.5]
 
 - Added Apache-2 LICENSE
 
@@ -33,6 +40,7 @@
 ## [0.0.2]
 
 ### Removed
+
 - removed unwanted/extra lines from Readme.md file
 
 ### Changed
@@ -47,4 +55,5 @@
 ### Added
 
 - chore: Setup Project
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- chore: Initial scaffold created
+  from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)

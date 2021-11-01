@@ -1,6 +1,9 @@
 # Description
 
-⚠️ Remember to update changelog!.
+- ⚠️ Remember to UPDATE changelog!.
+- ⚠️ Remember to UPDATE `pluginVersion` in `gradle.properties` file.
+- ⚠️ We FOLLOW [Semantic Versioning](https://semver.org/).
+- ⚠️ Your commit messages SHOULD FOLLOW [conventional commit](https://www.conventionalcommits.org) messages.
 
 ## Type of change
 
@@ -13,7 +16,3 @@
 - 📝 refactor
 - ⭐️ release
 - 💅 styles
-
-## Mentions
-
-- [@mention](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams)
