@@ -1,7 +1,10 @@
+<p align="center"><img src="https://raw.githubusercontent.com/easternenterprise/Jetbrains-Theme/main/src/main/resources/META-INF/pluginIcon.svg" width="350"></p>
 <p align="center"><h1 align="center">Decor</h1></p>
 
 <!-- Plugin description -->
-This theme is heavily inspired by VS Code [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) and could be served as port for JetBrains IDEs
+This theme is heavily inspired by VS
+Code [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) and could be served
+as port for JetBrains IDEs
 <!-- Plugin description end -->
 
 ## Light
